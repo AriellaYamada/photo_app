@@ -1,0 +1,19 @@
+current directory: /home/ariella/Documents/Cursos/RubyOnRails/photo-app/vendor/bundle/gems/bcrypt-3.1.12/ext/mri
+/usr/bin/ruby2.3 -r ./siteconf20181030-10771-4h6z5h.rb extconf.rb
+creating Makefile
+
+current directory: /home/ariella/Documents/Cursos/RubyOnRails/photo-app/vendor/bundle/gems/bcrypt-3.1.12/ext/mri
+make "DESTDIR=" clean
+
+current directory: /home/ariella/Documents/Cursos/RubyOnRails/photo-app/vendor/bundle/gems/bcrypt-3.1.12/ext/mri
+make "DESTDIR="
+compiling bcrypt_ext.c
+compiling crypt.c
+compiling crypt_blowfish.c
+compiling crypt_gensalt.c
+compiling wrapper.c
+linking shared-object bcrypt_ext.so
+
+current directory: /home/ariella/Documents/Cursos/RubyOnRails/photo-app/vendor/bundle/gems/bcrypt-3.1.12/ext/mri
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bcrypt_ext.so ./.gem.20181030-10771-q5b18m
