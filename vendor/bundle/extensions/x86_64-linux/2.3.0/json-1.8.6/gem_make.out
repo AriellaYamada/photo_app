@@ -1,0 +1,13 @@
+current directory: /home/ariella/Documents/Cursos/RubyOnRails/photo-app/vendor/bundle/gems/json-1.8.6/ext/json
+/usr/bin/ruby2.3 -r ./siteconf20181030-31199-18xn1zn.rb extconf.rb
+creating Makefile
+
+current directory: /home/ariella/Documents/Cursos/RubyOnRails/photo-app/vendor/bundle/gems/json-1.8.6/ext/json
+make "DESTDIR=" clean
+
+current directory: /home/ariella/Documents/Cursos/RubyOnRails/photo-app/vendor/bundle/gems/json-1.8.6/ext/json
+make "DESTDIR="
+make: Nothing to be done for 'all'.
+
+current directory: /home/ariella/Documents/Cursos/RubyOnRails/photo-app/vendor/bundle/gems/json-1.8.6/ext/json
+make "DESTDIR=" install
